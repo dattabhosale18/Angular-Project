@@ -1,0 +1,18 @@
+.user-auth h1 {
+  margin-top: 50px;
+  margin-bottom: 80px;
+  color: rgb(136, 37, 126);
+  text-align: center;
+  padding-top: 80px;
+}
+.user-auth {
+  background-image: url("https://img.freepik.com/premium-photo/portrait-surprised-young-woman-look-amazed-camera-holding-shopping-bags-see-discounts-store_1258-117350.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-size: 1500px;
+  height: 600px;
+  margin-bottom: 100px;
+}
+.common-form a {
+  color: blueviolet;
+  cursor: pointer;
+}

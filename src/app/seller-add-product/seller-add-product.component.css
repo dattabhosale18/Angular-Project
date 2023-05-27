@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(136, 37, 126);
+  text-align: center;
+}
+.add-product {
+  text-align: center;
+}
+.add-product {
+  background-image: url("https://img.freepik.com/free-photo/portrait-excited-happy-shopaholic-woman-holding-shopping-bags-showing-plastic-credit-card-smi_1258-120531.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-size: 1500px;
+  height: 800px;
+}
